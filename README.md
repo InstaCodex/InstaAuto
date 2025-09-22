@@ -4,7 +4,7 @@
 ``` bash
 $ pkg install git
 $ pkg install python
-$ pkg install bs4
+$ pip install bs4
 $ pip install requests
 $ pip install faker
 $ git clone https://github.com/InstaCodex/InstaAuto
