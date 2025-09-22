@@ -2,10 +2,8 @@
 - [InstaCodex]()
 #### Instalasi Tools
 ``` bash
-$ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
-$ python -m pip install --upgrade pip
 $ pkg upgrade python
 $ pip install requests
 $ pip install faker
