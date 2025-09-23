@@ -4,9 +4,10 @@
 ``` bash
 $ pkg install git
 $ pkg install python
-$ pip install bs4
+$ pip install beautifulsoup4
 $ pip install requests
 $ pip install faker
+$ pip install fake_email
 $ git clone https://github.com/InstaCodex/InstaAuto
 $ cd InstaAuto
 $ python run.py
